@@ -1,6 +1,8 @@
 # BBC-articles-fulltext-and-category-Classification-using-LSTM
 Proyek Pertama : Membuat Model NLP dengan TensorFlow (Belajar Pengembangan Machine Learning - Dicoding )
 
+Author: Sari Nurbaiti
+
 Sumber Data: https://www.kaggle.com/yufengdev/bbc-fulltext-and-category
 
 Submission Checklists
